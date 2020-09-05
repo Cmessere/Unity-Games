@@ -1,5 +1,5 @@
 # Unity-Games
-This is a link to the Unity apps I've worked on in collaboration with [Luca](https://github.com/Cesarsk).
+This is a link to the repos of the Unity apps I've worked on in collaboration with [Luca](https://github.com/Cesarsk).
 
 # [Screaming Monkey](https://github.com/Cesarsk/Unity-Screaming-Monkey)
 Flappy bird meets voice regulated controls
